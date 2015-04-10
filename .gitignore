@@ -159,6 +159,10 @@ $RECYCLE.BIN/
 # Node.js
 # =========================
 
+# Node Tool
+
+.ntvs_analysis.dat
+
 # Folder node_modules
 
 node_modules/
